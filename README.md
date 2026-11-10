@@ -5,7 +5,7 @@ A collection of cybersecurity labs and projects completed during my course.
 
 Welcome to my GitHub repository!
 
-This repository contains my labs and projects completed during my Cybersecurity course.
+This repository contains my labs and projects completed during my AI course.
 
 ## Contents
 
