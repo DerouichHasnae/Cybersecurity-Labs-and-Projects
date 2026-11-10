@@ -11,15 +11,13 @@ This repository contains my labs and projects completed during my Cybersecurity 
 
 ### Labs
 - Lab 1: Phishing URL Detection using Machine Learning
-- Lab 2: Coming soon
+- Lab 2: 
 
 ### Projects
-- Coming soon
+- 
 
 ## Technologies
 - Python
 - Machine Learning
-- Cybersecurity
-- SHAP
 
 
